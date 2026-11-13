@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sulezraz 👋
 
-<!--
-**sulezraz/sulezraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m building this page to share what I’m working on and the projects I care about.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: **[project or area]**
+- 🌱 Learning: **[skill, language, or topic]**
+- 🤝 Open to: **[collaborations, contributions, or opportunities]**
+- 💬 Ask me about: **[topics you enjoy]**
+
+## Featured projects
+
+- **[Project name](https://github.com/your-username/your-repo)** — [What it does and why it’s useful.] 
+- **[Project name](https://github.com/your-username/your-repo)** — [A short description of your contribution or goal.]
+
+## Find me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile) · [Personal site](https://example.com)
+
+---
+
+*Replace the bracketed prompts and example links with your own details. Remove any sections that don’t fit.*
