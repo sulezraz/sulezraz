@@ -15,9 +15,12 @@ I’m a Python-focused developer building practical software and developing my s
 
 ## About me
 
-- **Core interests:** backend engineering, databases, data platforms, and applied AI
-- **Current learning:** Python, SQL, PostgreSQL, FastAPI, AWS, Terraform, pandas, Apache Spark, and Databricks
-- **Approach:** learning by building, testing, debugging, and documenting practical projects
+- **How I approach problems:** I break work into manageable steps, think through how the pieces fit together, and use feedback to improve the result.
+- **How I write code:** I practise test-driven development (TDD) by checking what the code should do, testing it, and refining it to make the result more reliable.
+- **What I’ve been building:** I’ve worked on an events platform project and programming exercises that help me practise turning ideas into working, well-organised solutions.
+- **What I’m learning to build:** Applications and data workflows that handle information reliably, communicate clearly, and can be maintained as they grow.
+- **How I work with others:** I’m developing my collaboration and communication skills through shared project work, with an emphasis on clear documentation and dependable contributions.
+- **What I’m exploring next:** Cloud-based systems, large-scale data processing, and practical, responsible uses of machine learning and AI.
 
 ## Featured projects
 
@@ -27,19 +30,14 @@ A Python REST API for an events platform, built with FastAPI and PostgreSQL. Thi
 ### [Data Engineering Prep Steps](https://github.com/sulezraz/de-prep-steps)
 A set of Python exercises and practice work supporting foundational programming and preparation for data engineering study.
 
-## Current learning and project focus
+## Current focus
 
-- **Programming fundamentals:** Practising Git and version control, tracing code execution through stack frames, and strengthening problem-solving skills. Applying test-driven development (TDD), debugging, and a clear understanding of values versus references.
-- **Python development:** Organising Python projects and working with file input/output, scope, and pure functions. Exploring functional programming, higher-order functions, closures, and decorators, alongside practical debugging techniques.
-- **Object-oriented and advanced Python:** Studying classes and access control, inheritance, and magic methods. Building understanding of iterators and generators, and learning how concurrency and asynchronous programming support responsive applications.
-- **Databases and API foundations:** Designing relational schemas and data models, creating tables, and writing SQL queries with joins. Connecting these foundations to HTTP, REST principles, and API development with FastAPI.
-- **Backend engineering:** Practising API tests and useful error responses while learning authentication and authorisation, caching, and rate limiting. Exploring async performance, code quality, and clear technical documentation.
-- **Cloud and infrastructure:** Learning cloud networking and AWS compute, and using Makefiles, S3, IAM, RDS, the AWS CLI, and Bash. Defining and managing infrastructure as code with Terraform.
-- **Cloud operations and delivery:** Extending Terraform practice to remote state and exploring AWS serverless services and Lambda. Learning monitoring, alerting, and CI/CD workflows for operating and delivering software reliably.
-- **Data platforms and analytics:** Refreshing SQL and advancing query skills, then applying them to data warehousing and OLAP concepts. Practising data wrangling with pandas and exploring data architecture and AWS Glue.
-- **Data pipelines and transformation:** Learning workflow orchestration with AWS Step Functions, distributed data processing with Apache Spark, and Databricks. Exploring dbt and ELT patterns to structure and transform analytical data.
-- **Machine learning and generative AI:** Building foundational knowledge of decision trees, perceptrons, and layered neural networks, then studying tokenisation, embeddings, transformers, multi-head attention, and encoding. Exploring fine-tuning, reinforcement learning from human feedback (RLHF), retrieval-augmented generation (RAG), ML governance and ethics, MLOps, and AI tools.
-- **Group project:** Applying the programming, collaboration, and project-planning skills developed through this learning to a shared software project.
+- **Python and software fundamentals:** Building good habits with Git, testing, debugging, and maintainable code.
+- **Backend development:** Developing REST APIs with FastAPI, and learning API testing, authentication, and performance.
+- **Databases:** Practising SQL, PostgreSQL, relational data modelling, and query design.
+- **Data engineering:** Exploring pandas, Spark, Databricks, data pipelines, and ELT workflows.
+- **Cloud and infrastructure:** Learning AWS services, Terraform, automation, monitoring, and CI/CD.
+- **Machine learning and AI:** Studying machine learning fundamentals, generative AI, RAG, and MLOps.
 
 ## Connect
 
