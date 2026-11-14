@@ -50,4 +50,4 @@ A collection of Python exercises and programming challenges supporting foundatio
 - **Machine learning and AI:** Studying machine learning fundamentals, generative AI, RAG, and MLOps.
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/suleyman-rasul-58b94040b)
+[LinkedIn](https://linkedin.com/in/suleyman-rasul)
