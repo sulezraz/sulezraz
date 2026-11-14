@@ -1,6 +1,6 @@
 # Suleyman Rasul
 
-**Python Developer | Data Engineering Learner**
+**Python Developer | Aspiring Data Engineer**
 
 > Building reliable backend systems, data-driven projects, and cloud-ready solutions.
 
@@ -41,6 +41,3 @@ A set of Python exercises and practice work supporting foundational programming 
 
 [LinkedIn](https://linkedin.com/in/suleyman-rasul-58b94040b)
 
----
-
-Learning by building.
