@@ -14,13 +14,9 @@
 I’m a Python-focused developer building practical software and developing my skills in backend engineering, data engineering, and cloud infrastructure. Through hands-on exercises and projects, I’m working from core programming concepts toward APIs, data pipelines, and machine learning applications.
 
 ## About me
-
-- **How I approach problems:** I break work into manageable steps, think through how the pieces fit together, and use feedback to improve the result.
-- **How I write code:** I practise test-driven development (TDD) by checking what the code should do, testing it, and refining it to make the result more reliable.
-- **What I’ve been building:** I’ve worked on an events platform project and programming exercises that help me practise turning ideas into working, well-organised solutions.
-- **What I’m learning to build:** Applications and data workflows that handle information reliably, communicate clearly, and can be maintained as they grow.
-- **How I work with others:** I’m developing my collaboration and communication skills through shared project work, with an emphasis on clear documentation and dependable contributions.
-- **What I’m exploring next:** Cloud-based systems, large-scale data processing, and practical, responsible uses of machine learning and AI.
+**Core interests:** backend engineering, databases, and data-driven applications
+**Current learning:** Python, SQL, PostgreSQL, FastAPI, AWS, Terraform, pandas, and Apache Spark
+**Approach:** writing clean, testable code and learning through project-based work
 
 ## Featured projects
 
