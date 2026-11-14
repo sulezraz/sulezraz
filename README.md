@@ -10,7 +10,7 @@
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Python Developer | Aspiring Data Engineer**
-> - Building reliable backend systems, data-driven projects, and cloud-ready solutions.
+> Building reliable backend systems, data-driven projects, and cloud-ready solutions.
 
 I'm a Python-focused developer building practical software and developing my skills in backend engineering, data engineering, and cloud infrastructure. Through hands-on projects and structured learning, I'm progressing from core programming concepts towards APIs, data pipelines, and machine learning applications.
 
