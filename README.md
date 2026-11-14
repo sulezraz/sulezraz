@@ -15,10 +15,10 @@
 I'm a Python-focused developer building practical software and developing my skills in backend engineering, data engineering, and cloud infrastructure. Through hands-on projects and structured learning, I'm progressing from core programming concepts towards APIs, data pipelines, and machine learning applications.
 
 ## About me
-**Problem-solving:** I break complex problems into manageable steps, explore how different components fit together, and refine solutions through testing and feedback.
-**Development approach:** I practise test-driven development (TDD), prioritising readable, well-structured, and maintainable code.
-**Learning approach:** I build understanding through hands-on projects, experimentation, debugging, and exploring how systems work beneath the surface.
-**Collaboration:** I value clear communication, useful documentation, constructive feedback, and learning from others.
+- **Problem-solving:** I break complex problems into manageable steps, explore how different components fit together, and refine solutions through testing and feedback.
+- **Development approach:** I practise test-driven development (TDD), prioritising readable, well-structured, and maintainable code.
+- **Learning approach:** I build understanding through hands-on projects, experimentation, debugging, and exploring how systems work beneath the surface.
+- **Collaboration:** I value clear communication, useful documentation, constructive feedback, and learning from others.
 
 ## Featured projects
 ### [NC Plus One](https://github.com/sulezraz/nc-plus-one)
