@@ -20,7 +20,6 @@ I'm a Python-focused developer building practical software and developing my ski
 
 ## Featured projects
 ### [NC Plus One](https://github.com/sulezraz/nc-plus-one)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,7 +27,6 @@ I'm a Python-focused developer building practical software and developing my ski
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
 A Python events-platform REST API built with FastAPI and PostgreSQL, with request validation and API tests. The project also includes Terraform configuration for AWS EC2 and networking, plus GitHub Actions for code checks and automated infrastructure provisioning. Application deployment to EC2 is in progress.
 
 ### [Data Engineering Prep Steps](https://github.com/sulezraz/de-prep-steps)
