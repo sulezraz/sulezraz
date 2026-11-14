@@ -32,6 +32,13 @@ I'm a Python-focused developer building practical software and developing my ski
 A Python events-platform REST API built with FastAPI and PostgreSQL, with request validation and API tests. The project also includes Terraform configuration for AWS EC2 and networking, plus GitHub Actions for code checks and automated infrastructure provisioning. Application deployment to EC2 is in progress.
 
 ### [Data Engineering Prep Steps](https://github.com/sulezraz/de-prep-steps)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
 A collection of Python exercises and programming challenges supporting foundational software development skills and preparation for data engineering study.
 
 ## Current focus
