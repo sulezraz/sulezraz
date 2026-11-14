@@ -28,12 +28,12 @@ A Python REST API for an events platform, built with FastAPI and PostgreSQL. Thi
 A collection of Python exercises and programming challenges supporting foundational software development skills and preparation for data engineering study.
 
 ## Current focus
-- **Python and software fundamentals:** Strengthening my understanding of Python, Git, test-driven development, debugging, and maintainable code.
-- **Backend development:** Building REST APIs with FastAPI and exploring API testing, authentication, error handling, and performance.
-- **Databases:** Practising SQL, PostgreSQL, relational data modelling, and efficient query design.
-- **Data engineering:** Exploring pandas, Apache Spark, Databricks, data pipelines, and ELT workflows.
-- **Cloud and infrastructure:** Learning AWS services, Terraform, infrastructure as code, automation, monitoring, and CI/CD.
-- **Machine learning and AI:** Developing an understanding of machine learning fundamentals, generative AI, retrieval-augmented generation (RAG), and MLOps.
+- **Python and software engineering:** Strengthening Python fundamentals, Git workflows, debugging, and software design.
+- **Backend development:** Building REST APIs with FastAPI, including request validation, error handling, authentication, and testing.
+- **Databases:** Developing SQL and PostgreSQL skills, including relational data modelling, query design, and database integration.
+- **Data engineering:** Exploring pandas, Apache Spark, Databricks, and data processing pipelines.
+- **Cloud and infrastructure:** Learning AWS, Terraform, infrastructure as code, automation, and CI/CD.
+- **Machine learning and AI:** Studying machine learning fundamentals, generative AI, RAG, and MLOps.
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/suleyman-rasul-58b94040b)
