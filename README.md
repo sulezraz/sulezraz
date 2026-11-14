@@ -1,55 +1,30 @@
-# Hi, I'm Suleyman 👋
+# Suleyman Rasul
 
-Python developer in training, focused on backend systems, databases, and data engineering.
+**Python Developer | Aspiring Data Engineer**
 
-I’m currently studying on the Northcoders Data Engineering course (Sep–Dec 2026), where I’m building practical experience across Python, Git, SQL, FastAPI, AWS, Terraform, data pipelines, and AI.
+I’m developing a strong foundation in backend software and data engineering through hands-on projects and the Northcoders Data Engineering course (September–December 2026). I enjoy building practical applications, working with databases, and applying thoughtful testing and engineering practices.
 
-## Current focus
+## Focus areas
 
-- Python, testing, and software fundamentals
-- SQL and PostgreSQL
-- REST APIs with FastAPI
-- Cloud and infrastructure with AWS + Terraform
-- Data engineering with pandas, Spark, and Databricks
-- Machine learning and AI concepts
+- **Programming:** Python, Git, and software fundamentals
+- **Backend development:** REST APIs, FastAPI, Pydantic, and pytest
+- **Databases:** SQL and PostgreSQL
+- **Data engineering:** pandas, Apache Spark, and Databricks
+- **Cloud and infrastructure:** AWS and Terraform
+- **Exploring:** machine learning and AI
 
-## Projects
+## Selected projects
 
 ### [NC Plus One](https://github.com/sulezraz/nc-plus-one)
-A Python REST API for an events platform using PostgreSQL, designed around backend architecture, data modelling, and test-driven development.
+A Python REST API for an events platform, built with FastAPI and PostgreSQL. The project explores API design, data modelling, database integration, and automated testing.
 
 ### [Data Engineering Prep Steps](https://github.com/sulezraz/de-prep-steps)
-Practice work and exercises covering Python fundamentals, setup, and problem-solving.
+A collection of Python exercises supporting core programming practice and preparation for data engineering study.
 
-## Skills
+## Current learning
 
-### Backend & software
-- Python
-- Git & version control
-- Testing with pytest
-- REST APIs
-- FastAPI
-- Pydantic
+I’m expanding from Python backend development into cloud infrastructure and data pipelines. I’m building these skills through course workshops, coding sprints, and project work, with a focus on creating reliable, well-documented software.
 
-### Data & infrastructure
-- SQL
-- PostgreSQL
-- AWS
-- Terraform
-- pandas
-- Apache Spark
-- Databricks
+## Contact
 
-## Learning journey
-
-I’m building a strong foundation in backend development and expanding into data engineering and cloud-based systems. My goal is to combine solid software engineering practices with real-world data and infrastructure skills.
-
-## Connect
-
-- GitHub: [@sulezraz](https://github.com/sulezraz)
-- LinkedIn: add your profile
-- Portfolio: add your site
-
----
-
-“Learning by building.”
+[LinkedIn](https://linkedin.com/in/suleyman-rasul-58b94040b)
