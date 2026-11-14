@@ -1,9 +1,4 @@
 # Suleyman Rasul
-
-**Python Developer | Aspiring Data Engineer**
-
-> Building reliable backend systems, data-driven projects, and cloud-ready solutions.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -11,6 +6,12 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Python Developer | Aspiring Data Engineer**
+
+> Building reliable backend systems, data-driven projects, and cloud-ready solutions.
+
+
 
 I’m a Python-focused developer learning how to build practical software, backend systems, and data engineering solutions. My current work focuses on API development, database design, testing, and cloud/data tooling as part of the Northcoders Data Engineering course.
 
