@@ -20,7 +20,7 @@ I'm a Python-focused developer building practical software and developing my ski
 
 ## Featured projects
 ### [NC Plus One](https://github.com/sulezraz/nc-plus-one)
-A Python REST API for an events platform, built with FastAPI and PostgreSQL. This project explores API design, database integration, data modelling, and automated testing.
+A Python events-platform REST API built with FastAPI and PostgreSQL, with request validation and API tests. The project also includes Terraform configuration for AWS EC2 and networking, plus GitHub Actions for code checks and automated infrastructure provisioning. Application deployment to EC2 is in progress.
 
 ### [Data Engineering Prep Steps](https://github.com/sulezraz/de-prep-steps)
 A collection of Python exercises and programming challenges supporting foundational software development skills and preparation for data engineering study.
