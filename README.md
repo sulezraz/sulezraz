@@ -48,6 +48,3 @@ A collection of Python exercises and programming challenges supporting foundatio
 - **Data engineering:** Exploring pandas, Apache Spark, Databricks, and data processing pipelines.
 - **Cloud and infrastructure:** Learning AWS, Terraform, infrastructure as code, automation, and CI/CD.
 - **Machine learning and AI:** Studying machine learning fundamentals, generative AI, RAG, and MLOps.
-
-## Connect
-[LinkedIn](https://linkedin.com/in/suleyman-rasul)
